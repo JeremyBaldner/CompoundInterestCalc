@@ -1,5 +1,7 @@
 # Cplusplus-Program
-&emsp;This program is used to see compound interest over a specific number of years with and without a monthly deposit. The user can modify the initial amount, monthly deposit, number of years invested, and annual percentage of return. This solves a problem for a banking company looking to offer this program for their clients.<br /> 
-&emsp;This program did a good job handling exceptions, separating the program between files, and providing quality output for users. Areas for improvement would be the use of pointers and memory management. Removing unused memory would prevent memory leak and create a faster, more secure program.<br />
-&emsp;The most challenging part of this code to write for me was the user output. The calculations and loops were straightforward. I spent too much time playing with different output options for users. I spent a lot of time reviewing online resources explaining different options that I had. I think that over time, as I learn, this part of the programming will be quicker.<br />
-&emsp;This project helped me learn more about industry regulations and best practices. The way the files are set up, variables are named, and comments are placed makes the program more readable. Having minimal code in the main along with a header and cpp file makes the program more maintainable and adaptable. I will continue to practice these regulations and best practices and they should be transferable to future projects.<br />
+This program is used to see compound interest over a specific number of years with and without a monthly deposit. The user can modify the initial amount, monthly
+deposit, number of years invested, and annual percentage of return. 
+## What I learned
+This project helped me learn more about industry regulations and best practices. The way the files are set up, variables are named, and comments are placed makes the
+program more readable. Having minimal code in the main along with a header and cpp file makes the program more maintainable and adaptable. I will continue to practice
+these regulations and best practices and they should be transferable to future projects.<br />
